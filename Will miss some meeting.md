@@ -1,4 +1,4 @@
-#### 因为冲突不出席会议
+## 因为冲突不出席会议
 
 Hello/Hi/Hey team, will miss today's stand up due to conflict/clash
 
@@ -16,7 +16,9 @@ Hey team, I will miss stand-up today to attend another meeting.
 
 Hey team, got an XXX meeting this morning so will miss stand up.
 
-#### 因为事故等不出席会议
+
+
+## 因为事故等不出席会议
 
 Hey team ill miss stand-up today
 
@@ -24,7 +26,9 @@ I am in an incident, might miss stand up.
 
 Hey team, i need to step out of the house today will miss stand up.
 
-#### 不出席会议加补充说明
+
+
+## 不出席会议加补充说明
 
 I will miss stand up today, but will attend sprint planning
 
