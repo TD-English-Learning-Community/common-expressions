@@ -19,6 +19,8 @@ Could you kindly grant me readonly access to this particular database XXX ? This
 
 Could I please have access to XXX ? CC: @XXX for approval
 
+Can my team XXX please have access to these XXX sources?
+
 
 ### use `get`
 
@@ -28,12 +30,23 @@ Could I get access to XXX ?
 
 Can I request admin access to some repo for some group? Thanks
 
+### use `allow`
+
+Could you please allow me access to the XXX site as well please? Thanking you in advance. FYI for approval CC: @XXX
+
+### use `let`
+
+Could you let me access XXX to view XXX?
+
 ## 寻求其他帮助
 
 Hi team, I need some help to understand the logic of ... Any volunteer please? Thanks
 
 Hi router, could you help to create a user group for XXX?
 
+I am having trouble logging into XXX after a windows update, it says to "ask your administrator to help you recover your account", can someone help with this please?
+
+We got XXX error from XXX with following error [error message] could you help us to investigate it or point to who can?
 
 ## 可以增加自我介绍或申请授权的目的来丰富请求内容
 
