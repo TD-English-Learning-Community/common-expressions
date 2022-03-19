@@ -9,3 +9,5 @@
 [Give an information](https://github.com/TD-English-Learning-Community/common-expressions/blob/main/files/give-an-information.md)
 
 [Start a discussion](https://github.com/TD-English-Learning-Community/common-expressions/blob/main/files/start-a-discussion.md)
+
+[Host meeting](https://github.com/TD-English-Learning-Community/common-expressions/blob/main/files/host-meeting.md)
