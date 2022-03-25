@@ -48,6 +48,8 @@ I am having trouble logging into XXX after a windows update, it says to "ask you
 
 We got XXX error from XXX with following error [error message] could you help us to investigate it or point to who can?
 
+Hi devs, i could not create the XXX in pdv environment. There is no response when I click the next button in the creation page. Does it happen to you as well or it's my computer issue?
+
 ## 可以增加自我介绍或申请授权的目的来丰富请求内容
 
 I am a new joiner in XXX, Could you please ...

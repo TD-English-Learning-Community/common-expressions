@@ -14,3 +14,13 @@ Just want to confirm something. when ... is this an expected behavior?
 Hi team, I noticed that the test for XXX is currently failed because ... , Is there anyone could fix it please ?
 
 Hi team, I was doing some testing in PDV environment and currently the ... breaks. Is this something that will be fixed soon ? Also as an FYI i am currently working on a card to ...
+
+Morning peeps. PDV is not working as expected. is anyone looking into this?
+
+Hi devs, has anyone encountered the bug...
+
+## 发现报错寻求帮助
+
+- Hi friends, does anyone know why we got this error when run `npm install` for XXX repo?
+  - pull the latest from main, bump your branch if you need to and use `yarn install` - let me know how you go.
+

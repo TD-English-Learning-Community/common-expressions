@@ -11,6 +11,8 @@ Sorry need to drop for the covid test.
 
 Will drop for now to join another meeting. Thanks team.
 
+Unfortunately need to drop off. great work team!
+
 ## use `jump`
 
 Need to jump early. thanks team.
