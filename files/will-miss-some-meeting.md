@@ -9,11 +9,11 @@ Will miss stand up today, sorry for the short notice team (sorry for late notice
 
 Hey team, I have an overlap today so will miss stand up
 
-I'll alse miss standup sorry - I have a clash
+I'll also miss stand up sorry - I have a clash
 
 Hey team, probably will be late the stand up due to conflict.
 
-Good morning team, i will miss morning meetings due to a training session
+Good morning team, I will miss morning meetings due to a training session
 
 Hey team, I will miss stand-up today to attend another meeting.
 
